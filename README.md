@@ -6,4 +6,4 @@ Can be useful for mass scanning and searching for XSS vulnerabilities
 
 Each alert() payload has a sequential order, from 1 to 392; there are **552** payloads in total
 
-[Source](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+[**Source**](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
